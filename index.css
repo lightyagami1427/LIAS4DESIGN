@@ -8,6 +8,9 @@
     opacity: 1;
   }
 }
+html {
+  scroll-behavior:smooth;
+}
 .lias4design-child {
   position: absolute;
   top: -86.9px;
