@@ -1,0 +1,22 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_47_410)">
+<line opacity="0.5" x1="140.938" y1="1.5625" x2="140.937" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="270.938" y1="1.5625" x2="270.937" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="400.938" y1="1.5625" x2="400.937" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="530.938" y1="1.5625" x2="530.938" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="660.938" y1="1.5625" x2="660.938" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="790.938" y1="1.5625" x2="790.938" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="920.938" y1="1.5625" x2="920.938" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" x1="1050.94" y1="1.5625" x2="1050.94" y2="639.062" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" y1="116.875" x2="1200" y2="116.875" stroke="black" stroke-width="0.625"/>
+<line opacity="0.5" y1="116.875" x2="1200" y2="116.875" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" y1="246.875" x2="1200" y2="246.875" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" y1="376.875" x2="1200" y2="376.875" stroke="white" stroke-width="0.625"/>
+<line opacity="0.5" y1="506.875" x2="1200" y2="506.875" stroke="white" stroke-width="0.625"/>
+</g>
+<defs>
+<clipPath id="clip0_47_410">
+<rect width="1200" height="558.75" fill="white" transform="translate(0 0.3125)"/>
+</clipPath>
+</defs>
+</svg>
